@@ -1,6 +1,6 @@
 # Cars Game Prototype
 ![image](https://github.com/chammakh-yassine/CarGame_Prototype/blob/main/Screenshot%202024-12-30%20232632.png)
-![image](https://github.com/chammakh-yassine/CarGame_Prototype/blob/main/Screenshot%202024-12-30%20232632.png)
+![image](https://github.com/chammakh-yassine/CarGame_Prototype/blob/main/Screenshot%202024-12-31%20140615.png)
 
 ## Overview
 This project is a simple Unity prototype for a two-player car game. It is a spline-based screen game where players can control their respective cars and switch between camera views. The prototype includes basic obstacles and objects such as rocks and boxes to enhance gameplay.
