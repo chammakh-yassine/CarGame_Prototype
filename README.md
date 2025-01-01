@@ -1,4 +1,5 @@
 # Cars Game Prototype
+![image]()
 
 ## Overview
 This project is a simple Unity prototype for a two-player car game. It is a spline-based screen game where players can control their respective cars and switch between camera views. The prototype includes basic obstacles and objects such as rocks and boxes to enhance gameplay.
